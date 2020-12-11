@@ -1,4 +1,4 @@
-
+miniespecificacion
 1.  Inicio
 2.  (notasEstudiante(3),i[0-n])
 3.  (notasEstudianteCualitativo(3), x(20)[{a-z}, {BS}])

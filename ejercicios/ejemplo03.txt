@@ -1,4 +1,4 @@
-
+miniespecificacion 
 1.  Inicio
 2.  (notasMatematica(3),i[0-n])
 3.  (notasCiencias(3),i[0-n])
